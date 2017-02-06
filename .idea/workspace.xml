@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2b0963d-a4b6-412f-baee-41baf89522eb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Paper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/images_controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/main_controller.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/images.css.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/texts_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/spring" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/update" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cable.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/puma.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/spring.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/livingstory/.gitignore" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/config/manifest.js" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/images/.keep" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/app.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/images_controller.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/images_controller.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/main_controller.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/main_controller.coffee" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/cable.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/channels/.keep" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/stylesheets/animate.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/stylesheets/images.css.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/images.css.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/stylesheets/main.css.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/channels/application_cable/channel.rb" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/channels/application_cable/connection.rb" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/controllers/concerns/.keep" afterPath="$PROJECT_DIR$/tmp/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/controllers/texts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/texts_controller.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/jobs/application_job.rb" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/mailers/application_mailer.rb" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/models/application_record.rb" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/models/concerns/.keep" afterPath="$PROJECT_DIR$/test/models/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/views/layouts/mailer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/views/layouts/mailer.text.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/bundle" afterPath="$PROJECT_DIR$/bin/bundle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/rails" afterPath="$PROJECT_DIR$/bin/rails" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/rake" afterPath="$PROJECT_DIR$/bin/rake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/setup" afterPath="$PROJECT_DIR$/bin/setup" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/spring" afterPath="$PROJECT_DIR$/bin/spring" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/update" afterPath="$PROJECT_DIR$/bin/update" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config.ru" afterPath="$PROJECT_DIR$/config.ru" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/boot.rb" afterPath="$PROJECT_DIR$/config/boot.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/cable.yml" afterPath="$PROJECT_DIR$/config/cable.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/environment.rb" afterPath="$PROJECT_DIR$/config/environment.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/environments/test.rb" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/application_controller_renderer.rb" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/cookies_serializer.rb" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/inflections.rb" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/new_framework_defaults.rb" afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/session_store.rb" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/wrap_parameters.rb" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/puma.rb" afterPath="$PROJECT_DIR$/config/puma.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/secrets.yml" afterPath="$PROJECT_DIR$/config/secrets.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/spring.rb" afterPath="$PROJECT_DIR$/config/spring.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/lib/assets/.keep" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/lib/tasks/.keep" afterPath="$PROJECT_DIR$/test/integration/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/log/.keep" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/404.html" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/422.html" afterPath="$PROJECT_DIR$/public/422.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/500.html" afterPath="$PROJECT_DIR$/public/500.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/Book.png" afterPath="$PROJECT_DIR$/public/Book.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/Logo.png" afterPath="$PROJECT_DIR$/public/Logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/Paper.png" afterPath="$PROJECT_DIR$/public/Paper.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/apple-touch-icon-precomposed.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/apple-touch-icon.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/bg.jpg" afterPath="$PROJECT_DIR$/public/bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/images.html" afterPath="$PROJECT_DIR$/public/images.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/controllers/.keep" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/fixtures/.keep" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/fixtures/files/.keep" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/helpers/.keep" afterPath="$PROJECT_DIR$/log/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/integration/.keep" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/mailers/.keep" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/models/.keep" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/tmp/.keep" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/vendor/assets/javascripts/.keep" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/vendor/assets/stylesheets/.keep" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="livingstory" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Rakefile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rakefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>concu</find>
+      <find>serve</find>
+      <find>test</find>
+      <find>defau</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/story_fe/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/livingstory/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/livingstory/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/app.js" />
+        <option value="$PROJECT_DIR$/livingstory/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/livingstory/app/assets/stylesheets/main.css.scss" />
+        <option value="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/main_controller.js" />
+        <option value="$PROJECT_DIR$/livingstory/app/assets/stylesheets/main.css.sass" />
+        <option value="$PROJECT_DIR$/livingstory/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/livingstory/app/controllers/text_controller.rb" />
+        <option value="$PROJECT_DIR$/livingstory/config/routes.rb" />
+        <option value="$PROJECT_DIR$/livingstory/Gemfile" />
+        <option value="$PROJECT_DIR$/livingstory/app/controllers/texts_controller.rb" />
+        <option value="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/main_controller.coffee" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="842" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livingstory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livingstory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railties (v5.0.1, rbenv: 2.2.2) [gem]" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livingstory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railties (v5.0.1, rbenv: 2.2.2) [gem]" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livingstory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railties (v5.0.1, rbenv: 2.2.2) [gem]" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livingstory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livingstory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Gartner/cloudadvisor" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2b0963d-a4b6-412f-baee-41baf89522eb" name="Default" comment="" />
+      <created>1486372893314</created>
+      <option name="number" value="Default" />
+      <updated>1486372893314</updated>
+      <workItem from="1486372894719" duration="1091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1091000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="842" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24309392" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/story_fe/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/railties-5.0.1/lib/rails/welcome_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.093235835">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <marker date="1486376357000" expanded="true" signature="70:149" placeholder=" ... end" />
+            <marker date="1486376357000" expanded="true" signature="139:145" placeholder=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/layout.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486376354000" expanded="true" signature="31:2829" placeholder="..." />
+            <marker date="1486376354000" expanded="true" signature="38:2791" placeholder="..." />
+            <marker date="1486376354000" expanded="true" signature="128:2168" placeholder="..." />
+            <marker date="1486376354000" expanded="true" signature="139:217" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="243:358" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="368:427" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="441:538" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="551:635" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="644:722" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="731:785" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="800:931" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="946:1040" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1059:1105" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1122:1202" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1218:1264" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1278:1365" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1383:1435" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1455:1536" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1548:1577" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1611:1756" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1768:1801" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1819:1859" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1878:1918" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="1932:1960" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="2180:2783" placeholder="..." />
+            <marker date="1486376354000" expanded="true" signature="2212:2346" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="2375:2441" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="2470:2535" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="2569:2612" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="2652:2696" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="2732:2772" placeholder="{...}" />
+            <marker date="1486376354000" expanded="true" signature="2798:2821" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rest-client-2.0.0/lib/restclient.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33272395">
+          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+          <folding>
+            <marker date="1486390697000" expanded="true" signature="771:2552" placeholder="#..." />
+            <marker date="1486390697000" expanded="true" signature="2570:5914" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="2611:2696" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="2747:2854" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="2906:3014" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="3064:3170" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="3214:3302" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="3344:3430" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="3475:3564" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="3568:3707" placeholder="#..." />
+            <marker date="1486390697000" expanded="true" signature="3724:3749" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="3775:3822" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="3826:4004" placeholder="#..." />
+            <marker date="1486390697000" expanded="true" signature="4026:4057" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="4061:4252" placeholder="#..." />
+            <marker date="1486390697000" expanded="true" signature="4272:4305" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="4309:4466" placeholder="#..." />
+            <marker date="1486390697000" expanded="true" signature="4494:5249" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="4499:5243" placeholder="if ... end" />
+            <marker date="1486390697000" expanded="true" signature="4514:5235" placeholder="if ... end" />
+            <marker date="1486390697000" expanded="true" signature="4544:5200" placeholder="if ... end" />
+            <marker date="1486390697000" expanded="true" signature="4601:4686" placeholder="do ... end" />
+            <marker date="1486390697000" expanded="true" signature="4626:4672" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="4783:4868" placeholder="do ... end" />
+            <marker date="1486390697000" expanded="true" signature="4808:4854" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="4944:5099" placeholder="do ... end" />
+            <marker date="1486390697000" expanded="true" signature="5007:5085" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="5051:5069" placeholder="{ ... }" />
+            <marker date="1486390697000" expanded="true" signature="5338:5367" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="5404:5535" placeholder="#..." />
+            <marker date="1486390697000" expanded="true" signature="5578:5682" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="5789:5829" placeholder=" ... end" />
+            <marker date="1486390697000" expanded="true" signature="5874:5909" placeholder=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
