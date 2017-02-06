@@ -7,10 +7,12 @@ angular.module('story').controller('MainCtrl',['$scope', '$http', ($scope, $http
   $scope.mainImg = ['http://www.kesha3d.com/Gallery/Amazonian_woman.jpg']
 
   $scope.sendWord = ->
-    lastWord = $scope.storyText.split(" ")[$scope.storyText.split(" ").length - 1]
+    console.log("in send word")
+    lastWord = $scope.currentSentence.split(" ")[$scope.currentSentence.split(" ").length - 1]
+    console.log("lastWord is:", lastWord)
     json = {
       "latest": lastWord,
-      "lastFour": $scope.storyText.split(" ")[0..3].join(' '),
+      "lastFour": $scope.currentSentence.split(" ")[0..3].join(' '),
       "relativeContext": $scope.currentSentence,
       "fullContext": $scope.storyText
     }
