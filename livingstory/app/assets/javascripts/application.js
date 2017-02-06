@@ -13,3 +13,4 @@
 
 //= require_tree ./angular
 //= require_tree .
+//= require angular-elastic
