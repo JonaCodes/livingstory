@@ -18,7 +18,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-route.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.6/angular-animate.js"></script>
+    <script src="https://cdn.rawgit.com/Luegg/angularjs-scroll-glue/master/src/scrollglue.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+    
     <title>Livingstory</title>
     <%= csrf_meta_tags %>
     <%= stylesheet_link_tag    'application', media: 'all' %>
@@ -36,6 +38,7 @@
           </div>
            <div class="book col-sm-7">
             <div ng-controller="ImagesCtrl" class="images-wrapper">
+            <button ng-click="addImg()">Add</button>
             <div ng-include src="'/images.html'">
             </div>
               <!-- <div ng-repeat="(key, value) in MainCtrl.images" ></div> -->
