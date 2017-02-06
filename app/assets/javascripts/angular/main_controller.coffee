@@ -18,16 +18,8 @@ angular.module('story').controller('MainCtrl',['$scope', '$http','$timeout', ($s
         return if !res
         $scope.images.push(res.data)
         $scope.mainImg = [res.data]
-        $scope.scrolldown()
     )
-
-  $scope.scrolldown = () ->
-    
-    $timeout(
-      $(".scroller").scrollTop($(".scroller")[0].scrollHeight)
-      console.log 'here' 
-      , 3000)
-
+  
   $scope.keyPressed = (keyEvent)->
     #enter pressed
     if keyEvent.which == 13
