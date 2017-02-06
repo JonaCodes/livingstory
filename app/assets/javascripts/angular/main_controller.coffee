@@ -1,18 +1,17 @@
 angular.module('story').controller('MainCtrl',['$scope', '$http','$timeout', ($scope, $http, $timeout)->
   $scope.hello = "World"
-  $scope.currentSentence = ''
+  $scope.currentSentence = []
   $scope.currentWord = ''
   $scope.images = []
   $scope.mainImg = []
+  $scope.lastWord = ''
 
   $scope.sendWord = ->
-    console.log("in send word")
-    lastWord = $scope.currentSentence.split(" ")[$scope.currentSentence.split(" ").length - 1]
-    console.log("lastWord is:", lastWord)
+ 
     json = {
-      "latest": lastWord,
-      "lastFour": $scope.currentSentence.split(" ")[0..3].join(' '),
-      "relativeContext": $scope.currentSentence,
+      "latest": $scope.lastWord,
+      "lastFour": $scope.currentSentence[0..3].join(' '),
+      "relativeContext": $scope.currentSentence.join(' '),
       "fullContext": $scope.storyText
     }
     $http.post('/texts', {data: json}).then((res)->
@@ -33,13 +32,15 @@ angular.module('story').controller('MainCtrl',['$scope', '$http','$timeout', ($s
     #enter pressed
     if keyEvent.which == 13
       $scope.sendWord()
-      $scope.currentSentence = ''
+      $scope.currentSentence = []
+      $scope.lastWord = ''
     #whitespace pressed
     else if keyEvent.which == 32
-      $scope.currentSentence += " "
+      $scope.currentSentence.push($scope.lastWord)
       $scope.sendWord()
+      $scope.lastWord = ''
     else
-      $scope.currentSentence += String.fromCharCode(keyEvent.which)
+      $scope.lastWord += String.fromCharCode(keyEvent.which)
     console.log($scope.currentSentence)
 
 
