@@ -2,180 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b0963d-a4b6-412f-baee-41baf89522eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/images_controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/main_controller.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/images.css.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/texts_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/spring" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/update" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cable.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/puma.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/spring.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/livingstory/.gitignore" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/config/manifest.js" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/images/.keep" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/app.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/images_controller.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/images_controller.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/main_controller.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/angular/main_controller.coffee" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/cable.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/javascripts/channels/.keep" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/stylesheets/animate.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/stylesheets/images.css.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/images.css.sass" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/assets/stylesheets/main.css.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.sass" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/channels/application_cable/channel.rb" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/channels/application_cable/connection.rb" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/controllers/concerns/.keep" afterPath="$PROJECT_DIR$/tmp/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/controllers/texts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/texts_controller.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/jobs/application_job.rb" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/mailers/application_mailer.rb" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/models/application_record.rb" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/models/concerns/.keep" afterPath="$PROJECT_DIR$/test/models/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/views/layouts/mailer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/app/views/layouts/mailer.text.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/bundle" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/rails" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/rake" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/setup" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/spring" afterPath="$PROJECT_DIR$/bin/spring" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/bin/update" afterPath="$PROJECT_DIR$/bin/update" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config.ru" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/boot.rb" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/cable.yml" afterPath="$PROJECT_DIR$/config/cable.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/environment.rb" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/environments/test.rb" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/application_controller_renderer.rb" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/cookies_serializer.rb" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/inflections.rb" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/new_framework_defaults.rb" afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/session_store.rb" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/initializers/wrap_parameters.rb" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/puma.rb" afterPath="$PROJECT_DIR$/config/puma.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/secrets.yml" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/config/spring.rb" afterPath="$PROJECT_DIR$/config/spring.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/lib/assets/.keep" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/lib/tasks/.keep" afterPath="$PROJECT_DIR$/test/integration/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/log/.keep" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/404.html" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/422.html" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/500.html" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/Book.png" afterPath="$PROJECT_DIR$/public/Book.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/Logo.png" afterPath="$PROJECT_DIR$/public/Logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/Paper.png" afterPath="$PROJECT_DIR$/public/Paper.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/apple-touch-icon-precomposed.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/apple-touch-icon.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/bg.jpg" afterPath="$PROJECT_DIR$/public/bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/images.html" afterPath="$PROJECT_DIR$/public/images.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/controllers/.keep" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/fixtures/.keep" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/fixtures/files/.keep" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/helpers/.keep" afterPath="$PROJECT_DIR$/log/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/integration/.keep" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/mailers/.keep" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/models/.keep" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/tmp/.keep" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/vendor/assets/javascripts/.keep" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/livingstory/vendor/assets/stylesheets/.keep" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -195,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Rakefile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -236,6 +64,7 @@
         <option value="$PROJECT_DIR$/livingstory/Gemfile" />
         <option value="$PROJECT_DIR$/livingstory/app/controllers/texts_controller.rb" />
         <option value="$PROJECT_DIR$/livingstory/app/assets/javascripts/angular/main_controller.coffee" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -566,9 +395,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="842" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -710,6 +539,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486376237000" expanded="true" signature="0:157" placeholder="#..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/texts_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486394808000" expanded="true" signature="43:263" placeholder=" ... end" />
+            <marker date="1486394808000" expanded="true" signature="82:258" placeholder=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
           <folding />
         </state>
       </provider>
