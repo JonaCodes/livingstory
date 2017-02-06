@@ -12,6 +12,7 @@ angular.module('story').controller('MainCtrl',['$scope', '$http', ($scope, $http
       "fullContext": $scope.storyText
     }
     console.log("json:", json)
+    $http.post('/texts', {data: json})
 
   $scope.keyPressed = (keyEvent)->
     #enter pressed
