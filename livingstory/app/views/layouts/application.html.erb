@@ -30,9 +30,8 @@
         <div class="row content">
           <div class="col-sm-5 sidenav">
             <div class="sidenav-margin">
-              <textarea  msd-elastic ng-model="foo"></textarea>
+              <textarea  ng-keypress="keyPressed($event)" msd-elastic ng-model="storyText" ng-trim="false"></textarea>
             </div>
-            <br>
           </div>
            <div class="book col-sm-7">
             <div ng-controller="ImagesCtrl" class="images-wrapper">
