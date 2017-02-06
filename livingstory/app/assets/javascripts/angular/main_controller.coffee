@@ -4,7 +4,7 @@ angular.module('story').controller('MainCtrl',['$scope', '$http', ($scope, $http
   $scope.currentWord = ''
 
   $scope.sendWord = ->
-    lastWord = $scope.storyText.split(" ")[$scope.storyText.split(" ").length - 2]
+    lastWord = $scope.storyText.split(" ")[$scope.storyText.split(" ").length - 1]
     json = {
       "latest": lastWord,
       "lastFour": $scope.storyText.split(" ")[0..3],
