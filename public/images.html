@@ -7,7 +7,8 @@
         </span>
       </span>
       <div>
-        <div class="nga-default nga-stagger nga-slide-down main-img" ng-repeat="(key, value) in mainImg ">
+        <div  class="nga-default nga-stagger nga-slide-down main-img" ng-repeat="(key, value) in mainImg ">
+          <div style="background-image: url({{value}})"></div>
           <img imageonload ng-src="{{value}}">
         </div>
       </div>
