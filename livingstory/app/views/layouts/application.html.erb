@@ -24,7 +24,7 @@
   </head>
 
   <body>
-    <div ng-controller="MainCtrl" >
+    <div ng-controller="MainCtrl">
       <div class="container-fluid">
         <div class="row content">
           <div class="col-sm-3 sidenav">
@@ -40,7 +40,12 @@
             </div>
           </div>
            <div class="col-sm-9">
-           here is the story
+            here is the story
+            <div ng-controller="ImagesCtrl" class="images-wrapper">
+            <div ng-include src="'/images.html'">
+            </div>
+              <!-- <div ng-repeat="(key, value) in MainCtrl.images" ></div> -->
+            </div>
           </div>
         </div>
       </div>
