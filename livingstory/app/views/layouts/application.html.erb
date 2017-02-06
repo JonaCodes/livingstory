@@ -27,10 +27,6 @@
     <div ng-controller="MainCtrl">
       <div class="container-fluid">
         <div class="row content">
-          <div class="col-sm-3 sidenav">
-            <h4>John's Blog</h4>
-            <br>
-          </div>
            <div class="col-sm-9">
             here is the story
             <div ng-controller="ImagesCtrl" class="images-wrapper">
@@ -42,7 +38,7 @@
           <div class="row">
             <div class="col-md-6">
               <div>
-                <textarea  msd-elastic ng-model="foo"></textarea>
+                <textarea  msd-elastic ng-model="storyText" ng-trim="false"></textarea>
               </div>
             </div>
           </div>
