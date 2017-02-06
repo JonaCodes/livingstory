@@ -16,9 +16,10 @@ angular.module('story').controller('MainCtrl',['$scope', '$http', ($scope, $http
     }
     console.log("json:", json)
     $http.post('/texts', {data: json}).then((res)->
+        console.log("Wtf", res)
         return if !res
-        $scope.images.push('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6VPj8X9Z9Lc6zSXQiyF3PRdxBrtyXf9hUslJqYVuQi7nxCuBc')
-        $scope.mainImg = 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6VPj8X9Z9Lc6zSXQiyF3PRdxBrtyXf9hUslJqYVuQi7nxCuBc'
+        $scope.images.push(res.data)
+        $scope.mainImg = res.data
     )
 
   $scope.keyPressed = (keyEvent)->
