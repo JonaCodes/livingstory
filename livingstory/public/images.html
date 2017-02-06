@@ -1,1 +1,10 @@
-<div>{{images}}</div>
+<span ng-repeat="(key, value) in images">
+  <span class="image-wrapper">
+    <img ng-src="{{value}}">
+  </span>
+</span>
+<div>
+  <div class="main-img">
+    <img ng-src="{{mainImg}}">
+  </div>
+</div>
