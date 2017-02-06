@@ -26,6 +26,10 @@ angular.module('story').controller('MainCtrl',['$scope', '$http','$timeout', ($s
       $scope.sendWord()
       $scope.currentSentence = []
       $scope.lastWord = ''
+    #backspace pressed
+    else if keyEvent.which == 8
+      console.log("this?")
+      $scope.lastWord = $scope.lastWord.slice(0, -1);
     #whitespace pressed
     else if keyEvent.which == 32
       $scope.currentSentence.push($scope.lastWord)
