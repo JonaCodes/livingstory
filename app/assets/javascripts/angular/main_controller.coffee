@@ -1,10 +1,9 @@
-angular.module('story').controller('MainCtrl',['$scope', '$http', ($scope, $http)->
+angular.module('story').controller('MainCtrl',['$scope', '$http','$timeout', ($scope, $http, $timeout)->
   $scope.hello = "World"
   $scope.currentSentence = ''
   $scope.currentWord = ''
-  images = ['http://www.kesha3d.com/Gallery/Painting/boy_and_dragon.jpg','http://www.kesha3d.com/Gallery/Amazonian_woman.jpg','http://www.kesha3d.com/Gallery/Tokime.jpg']
-  $scope.images = images
-  $scope.mainImg = ['http://www.kesha3d.com/Gallery/Amazonian_woman.jpg']
+  $scope.images = []
+  $scope.mainImg = []
 
   $scope.sendWord = ->
     console.log("in send word")
@@ -16,13 +15,19 @@ angular.module('story').controller('MainCtrl',['$scope', '$http', ($scope, $http
       "relativeContext": $scope.currentSentence,
       "fullContext": $scope.storyText
     }
-    console.log("json:", json)
     $http.post('/texts', {data: json}).then((res)->
-        console.log("Wtf", res)
         return if !res
         $scope.images.push(res.data)
-        $scope.mainImg = res.data
+        $scope.mainImg = [res.data]
+        $scope.scrolldown()
     )
+
+  $scope.scrolldown = () ->
+    
+    $timeout(
+      $(".scroller").scrollTop($(".scroller")[0].scrollHeight)
+      console.log 'here' 
+      , 3000)
 
   $scope.keyPressed = (keyEvent)->
     #enter pressed
