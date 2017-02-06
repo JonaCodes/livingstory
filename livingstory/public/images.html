@@ -1,10 +1,16 @@
-<span ng-repeat="(key, value) in images">
-  <span class="image-wrapper">
-    <img ng-src="{{value}}">
-  </span>
-</span>
-<div>
-  <div class="main-img">
-    <img ng-src="{{mainImg}}">
+<div class="row">
+  <div class="col-sm-3"></div>
+  <div class="col-sm-8">
+    <button ng-click="addImg()">Add</button>
+      <div>
+        <div class="nga-default nga-stagger nga-slide-up main-img" ng-repeat="(key, value) in mainImg">
+          <img ng-src="{{value}}">
+        </div>
+      </div>
+      <span class="nga-default nga-stagger nga-slide-right" ng-repeat="(key, value) in images track by $index">
+        <span class="image-wrapper">
+          <img  ng-src="{{value}}">
+        </span>
+      </span>
   </div>
 </div>
