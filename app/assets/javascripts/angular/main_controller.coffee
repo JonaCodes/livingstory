@@ -2,9 +2,8 @@ angular.module('story').controller('MainCtrl',['$scope', '$http', ($scope, $http
   $scope.hello = "World"
   $scope.currentSentence = ''
   $scope.currentWord = ''
-  images = ['http://www.kesha3d.com/Gallery/Painting/boy_and_dragon.jpg','http://www.kesha3d.com/Gallery/Amazonian_woman.jpg','http://www.kesha3d.com/Gallery/Tokime.jpg']
-  $scope.images = images
-  $scope.mainImg = ['http://www.kesha3d.com/Gallery/Amazonian_woman.jpg']
+  $scope.images = []
+  $scope.mainImg = []
 
   $scope.sendWord = ->
     lastWord = $scope.storyText.split(" ")[$scope.storyText.split(" ").length - 1]
@@ -19,7 +18,7 @@ angular.module('story').controller('MainCtrl',['$scope', '$http', ($scope, $http
         console.log("Wtf", res)
         return if !res
         $scope.images.push(res.data)
-        $scope.mainImg = res.data
+        $scope.mainImg = [res.data]
     )
 
   $scope.keyPressed = (keyEvent)->
