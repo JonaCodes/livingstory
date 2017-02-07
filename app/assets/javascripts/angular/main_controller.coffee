@@ -23,9 +23,10 @@ angular.module('story').controller('MainCtrl',['$scope', '$http','$timeout', ($s
 #            console.log("delete", deleted)
 
         for obj in res.data
+
           $scope.images.push(obj)
 
-        $scope.mainImg = res.data[res.data.length - 1]
+        $scope.mainImg = [res.data[res.data.length - 1]]
 
 
     )
