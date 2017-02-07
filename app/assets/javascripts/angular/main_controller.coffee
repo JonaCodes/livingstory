@@ -17,10 +17,10 @@ angular.module('story').controller('MainCtrl',['$scope', '$http','$timeout', ($s
     $http.post('/texts', {data: json}).then((res)->
         return if !res
 
-        for obj, index in $scope.images
-          if res.data[0].identifier.indexOf(obj.identifier) >=0 || res.data[1]?.identifier.indexOf(obj.identifier) >=0
-            deleted = $scope.images.splice(index, 1)
-            console.log("delete", deleted)
+#        for obj, index in $scope.images
+#          if res.data[0].identifier.indexOf(obj.identifier) >=0 || res.data[1]?.identifier.indexOf(obj.identifier) >=0
+#            deleted = $scope.images.splice(index, 1)
+#            console.log("delete", deleted)
 
         for obj in res.data
           $scope.images.push(obj)
